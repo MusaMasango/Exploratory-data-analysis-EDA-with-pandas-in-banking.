@@ -40,7 +40,7 @@ The data did not require any type of cleaning. There were no missing values and 
 I looked at different distributions for both the numeric and categorical data. Below are highlights from the data visualization section
 
 ![age distribution histogram plot](https://github.com/MusaMasango/Exploratory-data-analysis-EDA-with-pandas-in-banking./blob/main/age%20distribution%20histogram%20plot.png)
-![marital status & housing box plot](https://github.com/MusaMasango/Exploratory-data-analysis-EDA-with-pandas-in-banking./blob/main/marital%20status%20%26%20housing%20box%20plot.png)
+![marital status box plot](https://github.com/MusaMasango/Exploratory-data-analysis-EDA-with-pandas-in-banking./blob/main/marital%20status%20%26%20housing%20box%20plot.png)
 
 
 
